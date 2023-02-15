@@ -11,11 +11,15 @@
             "id": "502f51d017a69626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projetos/Batalha Naval para Programadores.md",
-                "mode": "source",
-                "source": false
+                "file": "Projetos/Projetos.canvas",
+                "viewState": {
+                  "x": -389,
+                  "y": -340.5,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -60,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Batalha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Batalha Naval para Programadores.md",
+                "file": "Projetos/Projetos.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Batalha Naval para Programadores.md",
+                "file": "Projetos/Projetos.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Batalha Naval para Programadores.md"
+                "file": "Projetos/Projetos.canvas"
               }
             }
           }
@@ -159,6 +163,8 @@
   },
   "active": "502f51d017a69626",
   "lastOpenFiles": [
+    "Projetos/Capas/Programming Battleship.png",
+    "Projetos/Batalha Naval para Programadores.md",
     "README.md",
     "README-EN.md",
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Requisitos Não Funcionais.md",
@@ -166,8 +172,6 @@
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Gamificação.md",
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Funcionalidades Básicas.md",
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Detecção de Sobrevivência.md",
-    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Consultas.md",
-    "Projetos/Batalha Naval para Programadores.md",
-    "Projetos/Projetos.canvas"
+    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Consultas.md"
   ]
 }
