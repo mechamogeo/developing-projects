@@ -1,3 +1,5 @@
+![Cover](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/cover.png)
+
 ## Descrição do Jogo
 
 Batalha Naval para Programadores é um jogo de estratégia baseado no clássico jogo de tabuleiro Batalha Naval. O jogo é projetado para testar as habilidades dos programadores em várias áreas, como desenvolvimento de API, criptografia e comunicação em rede.
