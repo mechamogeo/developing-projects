@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"aac01e3867d19de0","x":-510,"y":-409,"width":250,"height":136,"color":"6","type":"text","text":"[[Batalha Naval para Programadores]]"},
+		{"id":"3df4685f4db1374a","x":-187,"y":-434,"width":250,"height":51,"type":"text","text":"NoSQL"},
+		{"id":"7280fe49d4eaf91b","x":-187,"y":-366,"width":250,"height":50,"type":"text","text":"IaC"},
+		{"id":"0b82a1361ac17bed","x":-187,"y":-298,"width":250,"height":51,"type":"text","text":"Message Broker"},
+		{"id":"7fe8b8f2c63cf8ac","x":-841,"y":-366,"width":250,"height":50,"type":"text","text":"Multilanguage"},
+		{"id":"d88ff29c68ef4ac2","x":-841,"y":-298,"width":250,"height":51,"type":"text","text":"Customizable"},
+		{"id":"7cd4da96785a0d88","x":-841,"y":-434,"width":250,"height":51,"type":"text","text":"[[Gamificação]]"}
+	],
+	"edges":[
+		{"id":"e4841c95e426f08b","fromNode":"aac01e3867d19de0","fromSide":"right","toNode":"0b82a1361ac17bed","toSide":"left","color":"6"},
+		{"id":"33e8496dabb91e1e","fromNode":"aac01e3867d19de0","fromSide":"right","toNode":"3df4685f4db1374a","toSide":"left","color":"6"},
+		{"id":"e16d72826b111084","fromNode":"aac01e3867d19de0","fromSide":"right","toNode":"7280fe49d4eaf91b","toSide":"left","color":"6"},
+		{"id":"1f40cd565ee817f7","fromNode":"aac01e3867d19de0","fromSide":"left","toNode":"7cd4da96785a0d88","toSide":"right","color":"6"},
+		{"id":"f1d9ce7bcdbf8957","fromNode":"aac01e3867d19de0","fromSide":"left","toNode":"7fe8b8f2c63cf8ac","toSide":"right","color":"6"},
+		{"id":"74be7c6da1286025","fromNode":"aac01e3867d19de0","fromSide":"left","toNode":"d88ff29c68ef4ac2","toSide":"right","color":"6"}
+	]
+}
