@@ -14,4 +14,4 @@ Contribuições para qualquer um dos projetos listados aqui são bem-vindas. Se 
 
 ## Licença
 
-Este repositório está licenciado sob a [Licença MIT](./LICENSE).
+Este repositório está licenciado sob a [Licença MIT](./LICENSE.md).
