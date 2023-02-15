@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projetos/Definição de Projetos/Batalha Naval para Programadores/Funcionalidades Básicas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9caa421904b032ba",
+  "active": "502f51d017a69626",
   "lastOpenFiles": [
     "README-EN.md",
     "README.md",
-    "Projetos/Projetos.canvas",
-    "View Project.md",
+    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Requisitos Não Funcionais.md",
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Meios de Comunicação.md",
-    "Untitled 1.canvas",
+    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Gamificação.md",
+    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Funcionalidades Básicas.md",
+    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Detecção de Sobrevivência.md",
     "Projetos/Definição de Projetos/Batalha Naval para Programadores/Consultas.md",
     "Projetos/Batalha Naval para Programadores.md",
-    "Projetos/Batalha Naval para Programadores/Sobre o Projeto.md",
-    "Projetos/Definição de Projetos/Batalha Naval para Programadores/Gamificação.md"
+    "Projetos/Projetos.canvas"
   ]
 }

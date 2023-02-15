@@ -4,7 +4,7 @@ Este repositório contém uma lista de projetos que pretendo desenvolver em um f
 
 ## Projetos
 
-1. **Batalha Naval de Programação**: Um jogo inspirado no clássico jogo de Batalha Naval, mas projetado para testar as habilidades de programadores. O jogo consistirá em duas equipes competindo entre si e incluirá vários protocolos de comunicação, regras de gamificação e detecção de sobrevivência. [[Batalha Naval para Programadores]]
+1. **Batalha Naval de Programação**: Um jogo inspirado no clássico jogo de Batalha Naval, mas projetado para testar as habilidades de programadores. O jogo consistirá em duas equipes competindo entre si e incluirá vários protocolos de comunicação, regras de gamificação e detecção de sobrevivência. [Batalha Naval para Programadores](Projetos/Batalha%20Naval%20para%20Programadores.md)
 
 2. **Simulador de Mercado de Ações**: Um simulador de mercado de ações que permitirá aos usuários simular a compra e venda de ações em tempo real. O simulador utilizará dados reais de mercado de ações para tornar a experiência o mais realista possível. 
 

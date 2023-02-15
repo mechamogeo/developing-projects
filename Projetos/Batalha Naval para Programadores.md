@@ -16,7 +16,7 @@ O objetivo do jogo é afundar todos os navios do time adversário antes que eles
 
 ----
 
-## [[Funcionalidades Básicas]]
+## [Funcionalidades Básicas](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Funcionalidades%20Básicas.md)
 
 - Os jogadores devem ser divididos em dois times
 - Um meio de escolha de time deve ser criado
@@ -27,28 +27,28 @@ O objetivo do jogo é afundar todos os navios do time adversário antes que eles
 - O jogo deve terminar quando um dos times destruir todos os navios do time adversário
 - O sistema deve manter o controle das estatísticas do jogo
 
-## [[Gamificação]]
+## [Gamificação](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Gamificação.md)
 
 - Os jogadores ganham pontos por realizar ações específicas, como usar rest api ou criptografia
 - Os jogadores são penalizados por violar as regras, como exceder o limite de requisições por segundo ou não enviar uma mensagem Ping dentro do tempo limite
 - O jogo deve ser divertido e envolvente para incentivar os jogadores a continuarem jogando
 
-## [[Meios de Comunicação]]
+## [Meios de Comunicação](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Meios%20de%20Comunicação.md)
 
 - Os jogadores devem se comunicar por meio de rest api, webrtc, graphql, long pooling ou short pooling
 - Cada meio de comunicação tem suas próprias regras e limitações
 
-## [[Detecção de Sobrevivência]]
+## [Detecção de Sobrevivência](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Detecção%20de%20Sobrevivência.md)
 
 - O sistema deve enviar mensagens Ping para garantir que os jogadores estejam online e respondendo
 - Se um jogador não responder às mensagens Ping por 3 segundos, a vez passa para o outro time
 - Se um jogador não responder às mensagens Ping por 10 segundos, o time adversário ganha a partida
 
-## [[Consultas]]
+## [Consultas](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Consultas.md)
 
 - Os jogadores devem ser capazes de consultar seus pontos, penalidades e as regras do jogo
 
-## [[Requisitos Não Funcionais]]
+## [Requisitos Não Funcionais](Definição%20de%20Projetos/Batalha%20Naval%20para%20Programadores/Requisitos%20Não%20Funcionais.md)
 
 - O jogo deve ser escalável para suportar um grande número de jogadores
 - O jogo deve ser seguro e protegido contra ataques
